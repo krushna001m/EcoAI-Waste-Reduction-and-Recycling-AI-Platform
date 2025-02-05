@@ -47,7 +47,7 @@ Feel free to fork the project and submit pull requests.
 
 ## Demo
 
-You can try the live version of the game [here](https://krushna001m.github.io/EcoAI/).
+You can try the live version of the Platform [here](https://krushna001m.github.io/EcoAI/).
 
 ### Contact
 
