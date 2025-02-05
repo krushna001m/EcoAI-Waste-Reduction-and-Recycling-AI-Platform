@@ -5,7 +5,7 @@ EcoAI is a web-based platform that helps users determine whether an item is recy
 
 # Content
 - [Prerequisites](#Prerequisites)
-- [Installation_&Usage](#Installation&_Usage)
+- [Installation_&_Usage](#Installation_&_Usage)
 - [Features](#Features)
 - [Contributing](#Contributing)
 - [Demo](#Demo)
