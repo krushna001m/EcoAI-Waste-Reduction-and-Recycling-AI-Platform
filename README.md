@@ -19,7 +19,7 @@ Ensure you have a modern web browser installed.
 
 1. *Download the project files* or clone the repository:
    sh
-   git clone https://github.com/krushna001m/EcoAI.git
+   git clone https://github.com/krushna001m/EcoAI-Waste-Reduction-and-Recycling-AI-Platform.git
    
 2. *Navigate to the project folder*:
    sh
@@ -47,7 +47,7 @@ Feel free to fork the project and submit pull requests.
 
 ## Demo
 
-You can try the live version of the Platform [here](https://krushna001m.github.io/EcoAI/).
+You can try the live version of the Platform [here](https://krushna001m.github.io/EcoAI-Waste-Reduction-and-Recycling-AI-Platform/).
 
 ### Contact
 
