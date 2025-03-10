@@ -30,7 +30,9 @@ Ensure you have a modern web browser installed.
    - OR manually open it:
      sh
   
-     
+        open EcoAI.html  # MacOS
+     start EcoAI.html # Windows
+     xdg-open EcoAI.html # Linux
 
 ## Features
 
