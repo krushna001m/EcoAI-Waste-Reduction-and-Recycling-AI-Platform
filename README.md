@@ -29,9 +29,7 @@ Ensure you have a modern web browser installed.
    - Double-click EcoAI.html
    - OR manually open it:
      sh
-     open EcoAI.html  # MacOS
-     start EcoAI.html # Windows
-     xdg-open EcoAI.html # Linux
+  
      
 
 ## Features
